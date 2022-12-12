@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=radius\ color
+comment0.target=Circle(int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Circle\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\n\ Get\ the\ area\n\ \n\ @return\ \ \ \ \ returns\ the\ area\ of\ the\ circle\n
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment2.text=\n\ Get\ the\ perimeter\n\ \n\ @return\ \ \ \ \ returns\ the\ perimeter\ of\ the\ circle\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\n\ Get\ the\ color\n\ \n\ @return\ \ \ \ \ returns\ the\ color\ of\ the\ circle\n
+numComments=4
